@@ -1,6 +1,6 @@
 gj.grid.messages['th-th'] = {
     First: 'หน้าแรก',
-    Previous: 'หน้าล่าสุด',
+    Previous: 'ก่อนนี้',
     Next: 'ถัดไป',
     Last: 'สุดท้าย',
     Page: 'หน้า',
